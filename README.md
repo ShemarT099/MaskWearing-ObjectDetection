@@ -7,4 +7,4 @@ This specific project is using Computer Vision techniques such as image classifi
 
 Usinhg bounding boxes created using Roboflow to identify the area in which the masks are positioned, the labels were "Correctly worn masks" and "Incorrectly worn masks"
 
-The group initially started using CNN and RNN models to achieve this. 
+The group initially started using CNN and RNN models to achieve this. However after testing various models, the YOLOv5 (You Only Look Once) model produced the best results. (Used in the final .ipynb file)
